@@ -1,1 +1,1 @@
-# Miguel_Augusto_da_Silva_ListaTPA_25082025
+Open each C# file in the folder in Visual Studio or Visual Studio Code
